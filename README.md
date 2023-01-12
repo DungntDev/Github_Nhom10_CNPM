@@ -2,10 +2,12 @@
 # Dự án
   XÂY DỰNG WEBSITE QUẢN SINH VIÊN TẠI TRƯỜNG ĐẠI HỌC THĂNG LONG
 # Tổng quan
-- Quản lý sinh viên là 1 công tác rất quan trọng và phức tạp mà bất kỳ đơn vị đào tạo đại học nào cũng phải thực hiện. Bắt đầu từ việc làm thủ tục nhập học cho sinh viên mới, tiếp theo đó là theo dõi và quản lý các thông tin về sinh viên trong suốt khóa học cũng như hệ thống hóa, lưu trữ và bảo quản thông tin:  kết quả học tập, hồ sơ cá nhân khi sinh viên ra trường.
-- Trong phần mềm, nhân viên phòng Đào tạo, giáo viên, sinh viên đều được cấp tài khoản và được cấp quyền dựa theo chức năng và nghiệp vụ.Về phòng Đào tạo, cũng như quản trị hệ thống được phép quản lý giáo viên, sinh viên, chuyên ngành, môn học, lưu trữ, tìm kiếm và thống kê.
-- Giáo viên được phép quản lý học sinh theo môn học mà mình được phân công giảng dạy, nhập điểm cho sinh viên theo môn học, cập nhật tình trạng của sinh viên.
-- Sinh viên có thể xem bảng điểm của mình, đăng ký học, xem lịch thi các môn đang học.
+- Phần mềm đăng ký học của Trường Đại học Thăng Long (sau đây gọi tắt là phần mềm) là phần mềm hỗ trợ và cung cấp các thông tin phục vụ công tác học tập tại trường cho
+sinh viên: đăng ký học, tra cứu lịch thi, tra cứu điểm, học phí, chương trình đào tạo…
+- Phần mềm cũng hỗ trợ và cung cấp thông tin giúp cho các công tác nghiệp vụ của đối tượng người dùng khác như: giảng viên, cố vấn học tập (CVHT), trợ lý khoa…
+Thông tin tại phần mềm này do nhiều đơn vị trong trường cung cấp, Phòng Đào tạo cung cấp thông tin về chương trình đào tạo, lịch học, lịch thi; Phòng Khảo thí và Kiểm định chất lượng cung cấp thông về điểm của môn học; Phòng Tài vụ cung cấp thông tin về học phí; Phòng QLSV cung cấp thông tin về học vụ, học bổng, điểm trung bình các môn học, chứng chỉ.
+- Phần mềm này được sử dụng trên mạng internet qua giao diện website. Để truy cập được vào phần mềm, người dùng phải sử dụng máy tính được kết nối internet, dùng trình
+duyệt truy cập vào website có tên miền: https://dangkyhoc.thanglong.edu.vn/Default.aspx
 # Các chức năng của phần mềm
 - Đăng nhập
 - Đăng xuất
