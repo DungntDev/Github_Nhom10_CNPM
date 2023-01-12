@@ -1,4 +1,4 @@
-# Github_Nhom10_CNPM
+# Student management software
 # Dự án
   XÂY DỰNG WEBSITE QUẢN SINH VIÊN TẠI TRƯỜNG ĐẠI HỌC THĂNG LONG
 # Tổng quan
